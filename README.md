@@ -10,11 +10,31 @@ resources, libraries, information sources about various Data Science application
 
 <!-- toc -->
 
+- [Symbolic Computation](#symbolic-computation)
+- [Vizualization](#vizualization)
+- [Input and Output](#input-and-output)
 - [License](#license)
 
 <!-- tocstop -->
 
 <!-- doc -->
+
+- https://github.com/brianhempel/simple_stats
+- https://github.com/mrkn/enumerable-statistics
+
+## Symbolic Computation
+
+- https://github.com/symengine/symengine
+
+## Vizualization
+
+- https://github.com/v0dro/benchmark-plot
+-
+
+## Input and Output
+
+- https://github.com/fiksu/rcsv
+
 
 ## License
 
