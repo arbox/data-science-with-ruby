@@ -21,6 +21,9 @@ resources, libraries, information sources about various Data Science application
 
 - https://github.com/brianhempel/simple_stats
 - https://github.com/mrkn/enumerable-statistics
+- https://github.com/mrkn/matplotlib.rb
+- https://github.com/SciRuby/daru
+
 
 ## Symbolic Computation
 
@@ -29,11 +32,29 @@ resources, libraries, information sources about various Data Science application
 ## Vizualization
 
 - https://github.com/v0dro/benchmark-plot
--
+- https://github.com/domitry/Nyaplotjs
+- https://github.com/domitry/nyaplot
+- https://github.com/SciRuby/gnuplotrb
+
+## Interactive Computing
+
+- https://github.com/mrkn/iruby-rails
+
 
 ## Input and Output
 
 - https://github.com/fiksu/rcsv
+
+## Provisioning Infrastructure
+
+- https://github.com/mrkn/gpu-instance
+- https://github.com/mrkn/computing_node
+- https://github.com/k1LoW/awspec
+
+
+## Machine Learning
+
+- https://github.com/mrkn/scikit-learn.rb
 
 
 ## License
