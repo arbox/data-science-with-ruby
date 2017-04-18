@@ -19,6 +19,14 @@ resources, libraries, information sources about various Data Science application
 
 <!-- doc -->
 
+## Ruby versus Python
+
+| Ruby   | Python |
+| ---    | ---    |
+| Pandas | Daru   |
+
+## Statistics
+
 - https://github.com/brianhempel/simple_stats
 - https://github.com/mrkn/enumerable-statistics
 - https://github.com/mrkn/matplotlib.rb
