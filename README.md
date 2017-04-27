@@ -13,9 +13,14 @@ resources, libraries, information sources about various Data Science application
 
 <!-- toc -->
 
+- [Ruby versus Python](#ruby-versus-python)
+- [Statistics](#statistics)
 - [Symbolic Computation](#symbolic-computation)
-- [Vizualization](#vizualization)
+- [Visualization](#visualization)
+- [Interactive Computing](#interactive-computing)
 - [Input and Output](#input-and-output)
+- [Provisioning Infrastructure](#provisioning-infrastructure)
+- [Machine Learning](#machine-learning)
 - [License](#license)
 
 <!-- tocstop -->
@@ -34,18 +39,35 @@ resources, libraries, information sources about various Data Science application
 - https://github.com/mrkn/enumerable-statistics
 - https://github.com/mrkn/matplotlib.rb
 - https://github.com/SciRuby/daru
+* [statsample](https://github.com/clbustos/statsample):
+A suite for basic and advanced statistics on Ruby
+dependencies: GSL
 
+* [statistics2](https://github.com/abscondment/statistics2):
+Provides normal, Chi-square, t- and F- probability distributions for Ruby
+
+* [rb-gsl](https://github.com/blackwinter/rb-gsl):
+Ruby interface to the GNU Scientific Library
+dependencies: GSL
+
+* [PCA](https://github.com/gbuesing/pca): Principal component analysis (PCA) in Ruby
 
 ## Symbolic Computation
 
 - https://github.com/symengine/symengine
 
-## Vizualization
+## Visualization
+
+Comprehensive tools for Data Vizualization.
 
 - https://github.com/v0dro/benchmark-plot
 - https://github.com/domitry/Nyaplotjs
 - https://github.com/domitry/nyaplot
 - https://github.com/SciRuby/gnuplotrb
+- [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz)
+  <sup>[[dep: Graphviz](#graphviz)]</sup>
+- [gnuplot](https://github.com/rdp/ruby_gnuplot/tree/master)
+  <sup>[[dep: gnuplot](#gnuplot)]</sup>
 
 ## Interactive Computing
 
