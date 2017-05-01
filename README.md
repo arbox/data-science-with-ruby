@@ -1,12 +1,16 @@
-[[RubyNLP](https://github.com/arbox/nlp-with-ruby) | [RubyML](https://github.com/arbox/machine-learning-with-ruby) | [RubyInterop](https://github.com/arbox/ruby-interoperability) ]
+[[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
+ [RubyML](https://github.com/arbox/machine-learning-with-ruby) |
+ [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
 
 # Awesome Data Science with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for data processing in [Ruby][ruby]
+> Useful resources for data processing in Ruby
 
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 resources, libraries, information sources about various Data Science applications using the [Ruby programming language](ruby).
+
+**The list is under heavy maintenance!**
 
 <!-- nodoc -->
 ## Contents
@@ -19,7 +23,7 @@ resources, libraries, information sources about various Data Science application
 - [Visualization](#visualization)
 - [Interactive Computing](#interactive-computing)
 - [Input and Output](#input-and-output)
-- [Provisioning Infrastructure](#provisioning-infrastructure)
+- [Provisioning Infrastructure](n#provisioning-infrastructure)
 - [Machine Learning](#machine-learning)
 - [License](#license)
 
@@ -68,6 +72,10 @@ Comprehensive tools for Data Vizualization.
   <sup>[[dep: Graphviz](#graphviz)]</sup>
 - [gnuplot](https://github.com/rdp/ruby_gnuplot/tree/master)
   <sup>[[dep: gnuplot](#gnuplot)]</sup>
+- https://github.com/zuhao/plotrb
+- https://github.com/brasten/scruffy
+- https://github.com/zverok/worldize
+
 
 ## Interactive Computing
 
