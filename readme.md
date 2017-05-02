@@ -64,6 +64,10 @@ dependencies: GSL
 
 Comprehensive tools for Data Vizualization.
 
+- [matplotlib](https://github.com/mrkn/matplotlib.rb) -
+  Ruby based wrapper around [matplotlib](https://matplotlib.org/).
+  <dep>[[dep: matplotlib](#matplotlib)]</dep>
+
 - https://github.com/v0dro/benchmark-plot
 - https://github.com/domitry/Nyaplotjs
 - https://github.com/domitry/nyaplot
