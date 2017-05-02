@@ -87,6 +87,8 @@ Comprehensive tools for Data Vizualization.
 - https://github.com/fiksu/rcsv
 - [ox](https://github.com/ohler55/ox) -
   Optimized for speed XML parser and object marshaller.
+- [oj](https://github.com/ohler55/oj) -
+  High-speed JSON parser.
 
 ## Provisioning Infrastructure
 
