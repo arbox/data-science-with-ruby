@@ -85,6 +85,8 @@ Comprehensive tools for Data Vizualization.
 ## Input and Output
 
 - https://github.com/fiksu/rcsv
+- [ox](https://github.com/ohler55/ox) -
+  Optimized for speed XML parser and object marshaller.
 
 ## Provisioning Infrastructure
 
