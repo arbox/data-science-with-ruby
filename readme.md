@@ -1,3 +1,5 @@
+<img src="header.png" align="center">
+
 [[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
  [RubyML](https://github.com/arbox/machine-learning-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
@@ -5,7 +7,7 @@
 
 # Awesome Data Science with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for data processing in Ruby
+> Links and Resources for Data Processing in Ruby
 
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 resources, libraries, information sources about various Data Science applications using the [Ruby programming language](ruby).
@@ -23,8 +25,12 @@ resources, libraries, information sources about various Data Science application
 - [Visualization](#visualization)
 - [Interactive Computing](#interactive-computing)
 - [Input and Output](#input-and-output)
-- [Provisioning Infrastructure](n#provisioning-infrastructure)
+  * [General formats](#general-formats)
+  * [Database Adapters](#database-adapters)
+  * [Domain specific formats](#domain-specific-formats)
+- [Provisioning Infrastructure](#provisioning-infrastructure)
 - [Machine Learning](#machine-learning)
+- [Contributing](#contributing)
 - [License](#license)
 
 <!-- tocstop -->
@@ -35,7 +41,7 @@ resources, libraries, information sources about various Data Science application
 
 | Ruby   | Python |
 | ---    | ---    |
-| Pandas | Daru   |
+| Daru   | Pandas |
 
 ## Statistics
 
@@ -43,18 +49,17 @@ resources, libraries, information sources about various Data Science application
 - https://github.com/mrkn/enumerable-statistics
 - https://github.com/mrkn/matplotlib.rb
 - https://github.com/SciRuby/daru
-* [statsample](https://github.com/clbustos/statsample):
-A suite for basic and advanced statistics on Ruby
-dependencies: GSL
+- [statsample](https://github.com/clbustos/statsample) -
+  A suite for basic and advanced statistics on Ruby. <sup>[[dep: GLS](#gls)]</sup>
 
-* [statistics2](https://github.com/abscondment/statistics2):
-Provides normal, Chi-square, t- and F- probability distributions for Ruby
 
-* [rb-gsl](https://github.com/blackwinter/rb-gsl):
-Ruby interface to the GNU Scientific Library
-dependencies: GSL
+- [statistics2](https://github.com/abscondment/statistics2) -
+  Provides normal, Chi-square, t- and F- probability distributions for Ruby.
 
-* [PCA](https://github.com/gbuesing/pca): Principal component analysis (PCA) in Ruby
+- [rb-gsl](https://github.com/blackwinter/rb-gsl) -
+  Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
+
+- [PCA](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby.
 
 ## Symbolic Computation
 
@@ -65,8 +70,7 @@ dependencies: GSL
 Comprehensive tools for Data Vizualization.
 
 - [matplotlib](https://github.com/mrkn/matplotlib.rb) -
-  Ruby based wrapper around [matplotlib](https://matplotlib.org/).
-  <dep>[[dep: matplotlib](#matplotlib)]</dep>
+  Ruby based wrapper around [matplotlib](https://matplotlib.org/). <dep>[[dep: matplotlib](#matplotlib)]</dep>
 
 - https://github.com/v0dro/benchmark-plot
 - https://github.com/domitry/Nyaplotjs
@@ -88,12 +92,27 @@ Comprehensive tools for Data Vizualization.
 
 ## Input and Output
 
+### General formats
+
 - https://github.com/fiksu/rcsv
 - [ox](https://github.com/ohler55/ox) -
   Optimized for speed XML parser and object marshaller.
 - [oj](https://github.com/ohler55/oj) -
   High-speed JSON parser.
+- Markdown
+- Nokogiri
 
+### Database Adapters
+
+- pg
+- Mongo
+- MySQL
+
+### Domain specific formats
+
+- BibTeX
+
+-
 ## Provisioning Infrastructure
 
 - https://github.com/mrkn/gpu-instance
@@ -103,7 +122,46 @@ Comprehensive tools for Data Vizualization.
 
 ## Machine Learning
 
-- https://github.com/mrkn/scikit-learn.rb
+Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
+
+## Contributing
+
+:sparkles: We are very glad to see you in this section! :sparkles:
+
+Before you go ahead you should know that your contributions will be published under
+the terms of the [`CC0` license](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Have you just found a spelling error? Need to fix indentation?
+Send us a pull request! :sparkles:
+
+If you have discovered something cool, but don't know exactly if it suits the
+awesome definition submit a pull request to the [inbox](inbox.md).
+We'll consider your addition and format it for you! :smiley:
+
+:boom: If you know something pretty cool, it suits the awesome definition, works for you
+and seems to be useful for the community please add it to the [main list](README.md).
+In this case please ensure your pull request adheres to the following guidelines:
+
+- Use one commit per addition (several commits per PR are OK).
+- Add everything to the bottom of the relevant category.
+- If required introduce new categories or improve the existing categorization.
+- Use the following format: `- [title](link) - Distinguishing Description. <sup>[additional links]</sup>`
+- Name the libraries exactly how they are required from the Ruby program, not
+  after the Readme's title, e.g. `treat`, not `Treat`, since you do `require "treat"`.
+- Break down long lines, check your spelling, capitalization, and punctuation.
+- Provide a useful titles and comments for your Pull Request (not `Changed readme.md`),
+  mention the originator in the commit message if possible, e.g. `Added the neuroevo lib by @giuse.`
+- Add the topic `rubydatascience` to your repository or open an issue and
+  kindly ask the originator of the project to do so (if applicable for your submission).
+
+Sometimes we will ask you to edit your Pull Request before it is included.
+This is normally due to spelling errors or because your PR didn't match
+these guidelines.
+
+[Here][change-pr] is a write up on how to change a Pull Request and
+the different ways you can do that.
+
+:+1: Thank you for your suggestions!
 
 
 ## License
@@ -120,3 +178,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->
 [ruby]: https://www.ruby-lang.org/en/
+[ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
