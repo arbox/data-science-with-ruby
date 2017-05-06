@@ -15,7 +15,8 @@ the [Ruby programming language][ruby].
 
 A lot of useful resources on this list come from the development by
 [The Ruby Science Foundation][sciruby], our [contributors][contributors] and
-our own day to day work on various ML applications.
+our own day to day work on various data intensive applications.
+Read [why](#wait-but-why) this list is awesome.
 
 :sparkles: Every [contribution](#contributing) is welcome!
 Add links through pull requests or create an issue to start a discussion.
@@ -41,6 +42,7 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - [Provisioning Infrastructure](#provisioning-infrastructure)
 - [Machine Learning](#machine-learning)
 - [Contributing](#contributing)
+- [Wait but why?](#wait-but-why)
 - [License](#license)
 
 <!-- tocstop -->
@@ -170,6 +172,16 @@ the different ways you can do that.
 
 :+1: Thank you for your suggestions!
 
+## Wait but why?
+
+There are a lot of software lists with tools related to the Data Science.
+There are a couple of lists with Ruby related projects. There are no lists of
+only working and tested software with documented scope. We'll try to make one!
+
+What is awesome? Awesome are documented, maintained and focused tools.
+
+Can something turn not awesome at a point? Yes! Abandoned projects with broken
+dependencies aren't awesome any more! They leave this list.
 
 ## License
 
