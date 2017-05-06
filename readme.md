@@ -13,15 +13,18 @@ This curated list comprises [_awesome_][awesome] tutorials, libraries,
 information sources about various Data Science applications using
 the [Ruby programming language][ruby].
 
+A lot of useful resources on this list come from the development by
+[The Ruby Science Foundation][sciruby], our [contributors][contributors] and
+our own day to day work on various ML applications.
+
 :sparkles: Every [contribution](#contributing) is welcome!
 Add links through pull requests or create an issue to start a discussion.
 
 Follow us on [Twitter](https://twitter.com/RubyNLP)
 and please spread the word using the `#RubyDataScience` hash tag!
 
-**The list is under heavy maintenance!**
-
 <!-- nodoc -->
+
 ## Contents
 
 <!-- toc -->
@@ -54,7 +57,6 @@ and please spread the word using the `#RubyDataScience` hash tag!
 
 - https://github.com/brianhempel/simple_stats
 - https://github.com/mrkn/enumerable-statistics
-- https://github.com/mrkn/matplotlib.rb
 - https://github.com/SciRuby/daru
 - [statsample](https://github.com/clbustos/statsample) -
   A suite for basic and advanced statistics on Ruby. <sup>[[dep: GLS](#gls)]</sup>
@@ -78,7 +80,6 @@ Comprehensive tools for Data Vizualization.
 
 - [matplotlib](https://github.com/mrkn/matplotlib.rb) -
   Ruby based wrapper around [matplotlib](https://matplotlib.org/). <dep>[[dep: matplotlib](#matplotlib)]</dep>
-
 - https://github.com/v0dro/benchmark-plot
 - https://github.com/domitry/Nyaplotjs
 - https://github.com/domitry/nyaplot
@@ -119,7 +120,6 @@ Comprehensive tools for Data Vizualization.
 
 - BibTeX
 
--
 ## Provisioning Infrastructure
 
 - https://github.com/mrkn/gpu-instance
@@ -141,8 +141,8 @@ the terms of the [`CC0` license](https://creativecommons.org/publicdomain/zero/1
 Have you just found a spelling error? Need to fix indentation?
 Send us a pull request! :sparkles:
 
-If you have discovered something cool, but don't know exactly if it suits the
-awesome definition submit a pull request to the [inbox](inbox.md).
+You have discovered something cool, but don't know exactly if it suits the
+awesome definition? :+1: Submit a pull request to the [inbox](inbox.md)!
 We'll consider your addition and format it for you! :smiley:
 
 :boom: If you know something pretty cool, it suits the awesome definition, works for you
@@ -174,7 +174,7 @@ the different ways you can do that.
 ## License
 
 [![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Awesome Data Science with Ruby` by [Andrei Beliankou](https://github.com/arbox) and
-[Contributors](https://github.com/arbox/data-science-with-ruby/graphs/contributors).
+[Contributors][contributors].
 
 To the extent possible under law, the person who associated CC0 with
 `Awesome Data Science with Ruby` has waived all copyright and related or neighboring rights
@@ -187,3 +187,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [ruby]: https://www.ruby-lang.org/en/
 [ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
+[sciruby]: https://github.com/sciruby
+[contributors]: https://github.com/arbox/data-science-with-ruby/graphs/contributors
