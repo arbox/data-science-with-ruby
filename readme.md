@@ -9,8 +9,15 @@
 
 > Links and Resources for Data Processing in Ruby
 
-This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
-resources, libraries, information sources about various Data Science applications using the [Ruby programming language](ruby).
+This curated list comprises [_awesome_][awesome] tutorials, libraries,
+information sources about various Data Science applications using
+the [Ruby programming language][ruby].
+
+:sparkles: Every [contribution](#contributing) is welcome!
+Add links through pull requests or create an issue to start a discussion.
+
+Follow us on [Twitter](https://twitter.com/RubyNLP)
+and please spread the word using the `#RubyDataScience` hash tag!
 
 **The list is under heavy maintenance!**
 
@@ -179,3 +186,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 <!--- Links --->
 [ruby]: https://www.ruby-lang.org/en/
 [ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
+[awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
