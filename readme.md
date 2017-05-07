@@ -41,6 +41,7 @@ and please spread the word using the `#RubyDataScience` hash tag!
   * [Domain specific formats](#domain-specific-formats)
 - [Provisioning Infrastructure](#provisioning-infrastructure)
 - [Machine Learning](#machine-learning)
+- [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Contributing](#contributing)
 - [Wait but why?](#wait-but-why)
 - [License](#license)
@@ -111,6 +112,7 @@ Comprehensive tools for Data Vizualization.
   High-speed JSON parser.
 - Markdown
 - Nokogiri
+- CSV
 
 ### Database Adapters
 
@@ -135,10 +137,12 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
 
+- 2017
 - 2016
-  _Scientific Computation and Data Visualization with Ruby _ by [Sameer Deshmukh](https://twitter.com/v0dro)
-  <sup>[[slides](https://www.slideshare.net/SrijanOne/webinar-scientific-computation-and-data-visualization-with-ruby) |
-  [video](https://www.youtube.com/watch?v=5970kC6MfBE)]</sup>
+  - _Scientific Computation and Data Visualization with Ruby _ by [Sameer Deshmukh](https://twitter.com/v0dro)
+    <sup>[[slides](https://www.slideshare.net/SrijanOne/webinar-scientific-computation-and-data-visualization-with-ruby) |
+          [video](https://www.youtube.com/watch?v=5970kC6MfBE)]</sup>
+- 2015
 
 ## Contributing
 
