@@ -133,6 +133,13 @@ Comprehensive tools for Data Vizualization.
 
 Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
+## Articles, Posts, Talks, and Presentations
+
+- 2016
+  _Scientific Computation and Data Visualization with Ruby _ by [Sameer Deshmukh](https://twitter.com/v0dro)
+  <sup>[[slides](https://www.slideshare.net/SrijanOne/webinar-scientific-computation-and-data-visualization-with-ruby) |
+  [video](https://www.youtube.com/watch?v=5970kC6MfBE)]</sup>
+
 ## Contributing
 
 :sparkles: We are very glad to see you in this section! :sparkles:
