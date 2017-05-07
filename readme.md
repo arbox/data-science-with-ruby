@@ -94,7 +94,7 @@ Comprehensive tools for Data Vizualization.
 - https://github.com/zuhao/plotrb
 - https://github.com/brasten/scruffy
 - https://github.com/zverok/worldize
-
+- https://github.com/masa16/ruby-mathgl
 
 ## Interactive Computing
 
