@@ -143,6 +143,14 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
     <sup>[[slides](https://www.slideshare.net/SrijanOne/webinar-scientific-computation-and-data-visualization-with-ruby) |
           [video](https://www.youtube.com/watch?v=5970kC6MfBE)]</sup>
 - 2015
+- 2014
+- 2013
+- 2012
+- 2011
+- 2010
+  - _NArray and scientific computing with Ruby_ by [Masahiro Tanaka](https://twitter.com/masa16tanaka)
+    <sup>[[video](https://vimeo.com/14823720) |
+          [slides](https://www.slideshare.net/masa16tanaka/narray-and-scientific-computing-with-ruby)]</sup>
 
 ## Contributing
 
