@@ -9,3 +9,5 @@
 - https://github.com/chartmogul/chartmogul-ruby
 - https://gitlab.com/dabit/itiel
 - https://github.com/neo4jrb
+- https://github.com/nyamadori/juknife
+
