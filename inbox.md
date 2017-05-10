@@ -12,3 +12,4 @@
 - https://github.com/nyamadori/juknife
 - https://github.com/Avsecz/aws-tensorflow-setup
 - https://github.com/winston/google_visualr
+- https://github.com/maxmilan/mathpack
