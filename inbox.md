@@ -14,3 +14,4 @@
 - https://github.com/winston/google_visualr
 - https://github.com/maxmilan/mathpack
 - http://rubykaigi.org/2016/presentations/v0dro.html
+- http://rubykaigi.org/2016/presentations/ktou.html
