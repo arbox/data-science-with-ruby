@@ -13,3 +13,4 @@
 - https://github.com/Avsecz/aws-tensorflow-setup
 - https://github.com/winston/google_visualr
 - https://github.com/maxmilan/mathpack
+- http://rubykaigi.org/2016/presentations/v0dro.html
