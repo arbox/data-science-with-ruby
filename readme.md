@@ -63,15 +63,12 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - https://github.com/SciRuby/daru
 - [statsample](https://github.com/clbustos/statsample) -
   A suite for basic and advanced statistics on Ruby. <sup>[[dep: GLS](#gls)]</sup>
-
-
 - [statistics2](https://github.com/abscondment/statistics2) -
   Provides normal, Chi-square, t- and F- probability distributions for Ruby.
-
 - [rb-gsl](https://github.com/blackwinter/rb-gsl) -
   Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
-
 - [PCA](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby.
+- https://github.com/jtescher/descriptive-statistics
 
 ## Symbolic Computation
 
