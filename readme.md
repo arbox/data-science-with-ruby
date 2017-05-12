@@ -58,7 +58,8 @@ and please spread the word using the `#RubyDataScience` hash tag!
 
 ## Statistics
 
-- https://github.com/brianhempel/simple_stats
+- [simple_stats](https://github.com/brianhempel/simple_stats) -
+  `Enumerable` patches for descriptive statistics.
 - https://github.com/mrkn/enumerable-statistics
 - https://github.com/SciRuby/daru
 - [statsample](https://github.com/clbustos/statsample) -
