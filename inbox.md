@@ -16,3 +16,4 @@
 - http://rubykaigi.org/2016/presentations/v0dro.html
 - http://rubykaigi.org/2016/presentations/ktou.html
 - https://github.com/jaredbeck/graph_matching
+- SciRuby
