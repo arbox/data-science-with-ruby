@@ -96,8 +96,8 @@ Comprehensive tools for Data Vizualization.
 
 ## Interactive Computing
 
-- https://github.com/mrkn/iruby-rails
-
+- [iruby-rails](https://github.com/mrkn/iruby-rails) -
+  Integration library for IRuby and Rails.
 
 ## Input and Output
 
