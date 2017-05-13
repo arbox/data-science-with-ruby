@@ -78,11 +78,13 @@ and please spread the word using the `#RubyDataScience` hash tag!
 
 ## Visualization
 
-Comprehensive tools for Data Vizualization.
+Comprehensive tools for Data Visualization.
 
 - [matplotlib](https://github.com/mrkn/matplotlib.rb) -
   Ruby based wrapper around [matplotlib](https://matplotlib.org/).
    <dep>[[dep: matplotlib](#matplotlib)]</dep>
+- [mathematical](https://github.com/gjtorikian/mathematical) -
+  PNG and MathML renderings for your equations.
 - https://github.com/v0dro/benchmark-plot
 - https://github.com/domitry/Nyaplotjs
 - https://github.com/domitry/nyaplot
