@@ -17,3 +17,4 @@
 - http://rubykaigi.org/2016/presentations/ktou.html
 - https://github.com/jaredbeck/graph_matching
 - SciRuby
+- https://github.com/dj2/Ruby-RTF
