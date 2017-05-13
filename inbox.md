@@ -18,3 +18,4 @@
 - https://github.com/jaredbeck/graph_matching
 - SciRuby
 - https://github.com/dj2/Ruby-RTF
+- https://github.com/if1live/csv-xlsx-converter
