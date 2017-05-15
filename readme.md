@@ -63,14 +63,18 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - [enumerable-statistics](https://github.com/mrkn/enumerable-statistics) -
   Fast implementation of descriptive statistics for the `Enumerable` module.
 - https://github.com/SciRuby/daru
-- [statsample](https://github.com/clbustos/statsample) -
+- [statsample](https://github.com/sciruby/statsample) -
   A suite for basic and advanced statistics on Ruby. <sup>[[dep: GLS](#gls)]</sup>
+- https://github.com/sciruby/statsample-glm
+- https://github.com/sciruby/statsample-bivariate-extension
+- https://github.com/sciruby/statsample-timeseries
 - [statistics2](https://github.com/abscondment/statistics2) -
   Provides normal, Chi-square, t- and F- probability distributions for Ruby.
 - [rb-gsl](https://github.com/blackwinter/rb-gsl) -
   Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
 - [PCA](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby.
 - https://github.com/jtescher/descriptive-statistics
+- https://github.com/sciruby/distribution
 
 ## Symbolic Computation
 
@@ -102,6 +106,7 @@ Comprehensive tools for Data Visualization.
 
 - [iruby-rails](https://github.com/mrkn/iruby-rails) -
   Integration library for IRuby and Rails.
+- https://github.com/sciruby/iruby
 
 ## Input and Output
 
