@@ -19,3 +19,6 @@
 - SciRuby
 - https://github.com/dj2/Ruby-RTF
 - https://github.com/if1live/csv-xlsx-converter
+- https://github.com/jtprince/histogram
+- https://github.com/mjacobus/koine-csv
+- https://github.com/rubyzip/rubyzip
