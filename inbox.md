@@ -23,3 +23,7 @@
 - https://github.com/mjacobus/koine-csv
 - https://github.com/rubyzip/rubyzip
 - https://github.com/clbustos/rubyvis
+- https://github.com/agisga/mixed_models
+- https://github.com/agisga/spitzy
+- https://github.com/SciRuby/tutorials
+- https://github.com/sciruby/sciruby-notebooks
