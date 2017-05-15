@@ -22,3 +22,4 @@
 - https://github.com/jtprince/histogram
 - https://github.com/mjacobus/koine-csv
 - https://github.com/rubyzip/rubyzip
+- https://github.com/clbustos/rubyvis
