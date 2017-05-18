@@ -27,3 +27,4 @@
 - https://github.com/agisga/spitzy
 - https://github.com/SciRuby/tutorials
 - https://github.com/sciruby/sciruby-notebooks
+- https://github.com/red-data-tools/red-arrow-gsl
