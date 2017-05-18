@@ -86,6 +86,8 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - [PCA](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby.
 - https://github.com/jtescher/descriptive-statistics
 - https://github.com/sciruby/distribution
+- [PCA](https://github.com/gbuesing/pca) -
+  Principal component analysis (PCA) in Ruby.
 
 ## Symbolic Computation
 
