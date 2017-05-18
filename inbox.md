@@ -29,3 +29,4 @@
 - https://github.com/sciruby/sciruby-notebooks
 - https://github.com/red-data-tools/red-arrow-gsl
 - https://github.com/red-data-tools/red-arrow-nmatrix
+- https://github.com/red-data-tools/red-arrow-numo-narray
