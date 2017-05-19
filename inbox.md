@@ -31,3 +31,4 @@
 - https://github.com/red-data-tools/red-arrow-nmatrix
 - https://github.com/red-data-tools/red-arrow-numo-narray
 - https://github.com/red-data-tools/red-arrow
+- https://github.com/petewarden/dstk
