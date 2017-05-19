@@ -36,3 +36,4 @@
 - https://github.com/gtkcyber/griffon-vm
 - https://github.com/ruby-rdf
 - https://github.com/cxn03651/write_xlsx
+- https://github.com/solyaris/rChatScript/
