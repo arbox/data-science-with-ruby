@@ -35,3 +35,4 @@
 - https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-linux-dsvm-intro
 - https://github.com/gtkcyber/griffon-vm
 - https://github.com/ruby-rdf
+- https://github.com/cxn03651/write_xlsx
