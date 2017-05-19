@@ -32,3 +32,6 @@
 - https://github.com/red-data-tools/red-arrow-numo-narray
 - https://github.com/red-data-tools/red-arrow
 - https://github.com/petewarden/dstk
+- https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-linux-dsvm-intro
+- https://github.com/gtkcyber/griffon-vm
+- https://github.com/ruby-rdf
