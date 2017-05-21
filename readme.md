@@ -165,6 +165,10 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 - 2015
 - 2014
 - 2013
+  - _Seeing the Big Picture: Quick and Dirty Data Visualization with Ruby_ by [Aja Hammerly](https://twitter.com/the_thagomizer)
+    <sup>[[video](https://www.youtube.com/watch?v=dWPRLCU39AU) |
+          [slides](http://www.thagomizer.com/files/dataviz_windy_city_13.pdf) |
+          [code](https://github.com/thagomizer/data_visualization_talk)]</sup>
 - 2012
 - 2011
 - 2010
