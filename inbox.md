@@ -38,3 +38,4 @@
 - https://github.com/cxn03651/write_xlsx
 - https://github.com/solyaris/rChatScript/
 - https://github.com/tj/terminal-table
+- https://github.com/halogenandtoast/alchemist
