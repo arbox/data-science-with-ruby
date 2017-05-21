@@ -39,3 +39,4 @@
 - https://github.com/solyaris/rChatScript/
 - https://github.com/tj/terminal-table
 - https://github.com/halogenandtoast/alchemist
+- https://github.com/yannickwurm/rubyscholar
