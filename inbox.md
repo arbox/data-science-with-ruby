@@ -40,3 +40,4 @@
 - https://github.com/tj/terminal-table
 - https://github.com/halogenandtoast/alchemist
 - https://github.com/yannickwurm/rubyscholar
+- https://github.com/lautis/rscsv
