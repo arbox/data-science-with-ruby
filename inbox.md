@@ -43,3 +43,4 @@
 - https://github.com/lautis/rscsv
 - https://github.com/agardiner/csv-diff
 - https://github.com/red-data-tools/jekyll-jupyter-notebook
+- https://github.com/jtprince/simpler
