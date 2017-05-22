@@ -46,3 +46,4 @@
 - https://github.com/jtprince/simpler
 - https://github.com/clbustos/Rserve-Ruby-client
 - https://github.com/ash1day/rbplotly
+- https://github.com/genya0407/daru_plotly
