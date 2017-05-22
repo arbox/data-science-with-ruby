@@ -45,3 +45,4 @@
 - https://github.com/red-data-tools/jekyll-jupyter-notebook
 - https://github.com/jtprince/simpler
 - https://github.com/clbustos/Rserve-Ruby-client
+- https://github.com/ash1day/rbplotly
