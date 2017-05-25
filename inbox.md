@@ -49,3 +49,4 @@
 - https://github.com/genya0407/daru_plotly
 - https://github.com/mjwhitta/pptxt
 - https://github.com/gverger/ruby-cbc
+- https://github.com/civisanalytics/tableau_api
