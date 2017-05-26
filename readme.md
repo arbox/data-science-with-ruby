@@ -56,11 +56,12 @@ and please spread the word using the `#RubyDataScience` hash tag!
 | Ruby   | Python |
 | ---    | ---    |
 | Daru   | Pandas |
+| NArray | NumPy  |
 
 ## Data Structures
 
-- [narray](https://github.com/masa16/narray) -
-  Ruby/NArray: N-dimensional Numerical Array for Ruby.
+- [numo-narray](https://github.com/ruby-numo/narray) -
+  n-dimensional Numerical Array for Ruby.
 - [NMatrix](https://github.com/sciruby/nmatrix) -
   Dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
 - [kdtree](https://github.com/gurgeous/kdtree) -
