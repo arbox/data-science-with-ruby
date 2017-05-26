@@ -115,6 +115,8 @@ Comprehensive tools for Data Visualization.
 - https://github.com/brasten/scruffy
 - https://github.com/zverok/worldize
 - https://github.com/masa16/ruby-mathgl
+- [numo-gnuplot](https://github.com/ruby-numo/gnuplot) -
+  gnuplot interface for the Numo package.
 
 ## Interactive Computing
 
