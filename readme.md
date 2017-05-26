@@ -90,9 +90,15 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - [PCA](https://github.com/gbuesing/pca) -
   Principal component analysis (PCA) in Ruby.
 
-## Symbolic Computation
+## Numeric and Symbolic Computation
 
+- [numo-linalg](https://github.com/ruby-numo/linalg) -
+  linear algebraic operations for NArray.
+- [numo-gsl](https://github.com/ruby-numo/gsl) -
+  Math and Statistics for NArray using GSL.<sup>[[dep: GSL](#gsl)]</sup>
 - https://github.com/symengine/symengine
+- [numo-ffte](https://github.com/ruby-numo/ffte) -
+  Fast Fourier Transformation for NArray using the FFTE package.<sup>[[FFTE](#ffte)]</sup>
 
 ## Visualization
 
@@ -178,6 +184,16 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
   - _NArray and scientific computing with Ruby_ by [Masahiro Tanaka](https://twitter.com/masa16tanaka)
     <sup>[[video](https://vimeo.com/14823720) |
           [slides](https://www.slideshare.net/masa16tanaka/narray-and-scientific-computing-with-ruby)]</sup>
+
+## Related resources
+
+- <a name="imagemagic"></a>
+  [ImageMagick](https://www.imagemagick.org/script/index.php)
+- <a name="gsl"></a>
+  [GSL](https://www.gnu.org/software/gsl/)
+- <a name="ffte"></a>
+  [FFTE](http://www.ffte.jp/)
+
 
 ## Contributing
 
