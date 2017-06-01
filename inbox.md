@@ -50,3 +50,4 @@
 - https://github.com/mjwhitta/pptxt
 - https://github.com/gverger/ruby-cbc
 - https://github.com/civisanalytics/tableau_api
+- https://github.com/coderbydesign/chart-js-rails
