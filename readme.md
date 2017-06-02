@@ -96,7 +96,7 @@ and please spread the word using the `#RubyDataScience` hash tag!
   linear algebraic operations for NArray.
 - [numo-gsl](https://github.com/ruby-numo/gsl) -
   Math and Statistics for NArray using GSL.<sup>[[dep: GSL](#gsl)]</sup>
-- https://github.com/symengine/symengine
+- [](https://github.com/symengine/symengine)
 - [numo-ffte](https://github.com/ruby-numo/ffte) -
   Fast Fourier Transformation for NArray using the FFTE package.<sup>[[FFTE](#ffte)]</sup>
 
@@ -193,6 +193,8 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
   [GSL](https://www.gnu.org/software/gsl/)
 - <a name="ffte"></a>
   [FFTE](http://www.ffte.jp/)
+- <a name="symengine"></a>
+  [SymEngine](https://github.com/symengine/symengine)
 
 
 ## Contributing
