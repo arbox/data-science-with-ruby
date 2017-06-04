@@ -52,3 +52,4 @@
 - https://github.com/civisanalytics/tableau_api
 - https://github.com/coderbydesign/chart-js-rails
 - https://github.com/ankane/chartkick
+- https://github.com/odedd/table_sortable
