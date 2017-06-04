@@ -56,3 +56,4 @@
 - https://github.com/datacite/bolognese
 - https://github.com/Pagnet/csv_import_magic
 - https://github.com/ireullin/principal-components-analysis
+- https://github.com/antw/iniparse
