@@ -53,3 +53,4 @@
 - https://github.com/coderbydesign/chart-js-rails
 - https://github.com/ankane/chartkick
 - https://github.com/odedd/table_sortable
+- https://github.com/datacite/bolognese
