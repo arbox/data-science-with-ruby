@@ -55,3 +55,4 @@
 - https://github.com/odedd/table_sortable
 - https://github.com/datacite/bolognese
 - https://github.com/Pagnet/csv_import_magic
+- https://github.com/ireullin/principal-components-analysis
