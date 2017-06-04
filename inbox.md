@@ -54,3 +54,4 @@
 - https://github.com/ankane/chartkick
 - https://github.com/odedd/table_sortable
 - https://github.com/datacite/bolognese
+- https://github.com/Pagnet/csv_import_magic
