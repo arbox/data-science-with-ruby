@@ -197,6 +197,8 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
   [SymEngine](https://github.com/symengine/symengine)
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) -
   awesome curated list on all around Big Data.
+- [Awesome Spark](https://github.com/awesome-spark/awesome-spark) -
+  awesome list on Apache Spark goodies.
 
 
 ## Contributing
