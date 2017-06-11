@@ -195,6 +195,8 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
   [FFTE](http://www.ffte.jp/)
 - <a name="symengine"></a>
   [SymEngine](https://github.com/symengine/symengine)
+- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) -
+  awesome curated list on all around Big Data.
 
 
 ## Contributing
