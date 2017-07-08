@@ -70,6 +70,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 ## Data Structures
 
+- [daru](https://github.com/SciRuby/daru) -
+  Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 - [numo-narray](https://github.com/ruby-numo/narray) -
   n-dimensional Numerical Array for Ruby.
 - [NMatrix](https://github.com/sciruby/nmatrix) -
@@ -84,7 +86,6 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   `Enumerable` patches for descriptive statistics.
 - [enumerable-statistics](https://github.com/mrkn/enumerable-statistics) -
   Fast implementation of descriptive statistics for the `Enumerable` module.
-- https://github.com/SciRuby/daru
 - [statsample](https://github.com/sciruby/statsample) -
   A suite for basic and advanced statistics on Ruby. <sup>[[dep: GLS](#gls)]</sup>
 - https://github.com/sciruby/statsample-glm
@@ -97,8 +98,6 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 - [PCA](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby.
 - https://github.com/jtescher/descriptive-statistics
 - https://github.com/sciruby/distribution
-- [PCA](https://github.com/gbuesing/pca) -
-  Principal component analysis (PCA) in Ruby.
 
 ## Numeric and Symbolic Computation
 
