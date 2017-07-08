@@ -9,6 +9,12 @@
 
 > Links and Resources for Data Processing in Ruby
 
+[Data Science](https://en.wikipedia.org/wiki/Data_science) is a new
+"sexy" buzzword without specific meaning but often used to substitute
+Statistics, Scientific Computing, Text and Data Mining and
+Visualization, Machine Learning, Data Processing and Warehousing as
+well as Retrieval Algorithms of any kind.
+
 This curated list comprises [_awesome_][awesome] tutorials, libraries,
 information sources about various Data Science applications using
 the [Ruby programming language][ruby].
