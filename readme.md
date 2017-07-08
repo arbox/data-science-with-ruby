@@ -78,7 +78,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
 - [kdtree](https://github.com/gurgeous/kdtree) -
   Blazingly fast, native, 2d kdtree.
-- https://github.com/rbotafogo/mdarray
+- [mdarray](https://github.com/rbotafogo/mdarray) - Array structure for `JRuby`.
 
 ## Statistics
 
