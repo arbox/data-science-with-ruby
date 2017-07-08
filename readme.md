@@ -180,6 +180,8 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 ## Articles, Posts, Talks, and Presentations
 
 - 2017
+  - _Chartkick: data visualization made easy with Ruby_ by [Govind Unnikrishnan](https://twitter.com/govind_k_u)
+    <sup>[[post](https://blog.redpanthers.co/chartkick-data-visualization-easy-ruby/)]</sup>
 - 2016
   - _Scientific Computation and Data Visualization with Ruby_ by [Sameer Deshmukh](https://twitter.com/v0dro)
     <sup>[[slides](https://www.slideshare.net/SrijanOne/webinar-scientific-computation-and-data-visualization-with-ruby) |

@@ -2,7 +2,6 @@
 - http://eewang.github.io/blog/2013/02/20/how-to-visualize-data-with-google-charts/
 - https://www.youtube.com/watch?v=IxSSbUrgTBY
 - https://socialdriver.com/2015/05/13/open-source-data-visualization/
-- http://blog.redpanthers.co/chartkick-data-visualization-easy-ruby/
 - https://github.com/NoahFisher/plotly-js
 - https://github.com/Nerian/Wordcram.rb
 - https://rubygems.org/gems/wordlelike
