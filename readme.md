@@ -107,7 +107,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 - [numo-gsl](https://github.com/ruby-numo/gsl) -
   Math and Statistics for NArray using GSL.<sup>[[dep: GSL](#gsl)]</sup>
 - [symengine](https://github.com/symengine/symengine.rb) -
-  Symbolic computation with [SymEngine](https://github.com/symengine/symengine).
+  Symbolic Computation with [SymEngine](https://github.com/symengine/symengine).
 - [numo-ffte](https://github.com/ruby-numo/ffte) -
   Fast Fourier Transformation for NArray using the FFTE package.<sup>[[FFTE](#ffte)]</sup>
 
