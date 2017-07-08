@@ -119,6 +119,8 @@ Comprehensive tools for Data Visualization.
   <sup>[[dep: matplotlib](#matplotlib)]</sup>
 - [mathematical](https://github.com/gjtorikian/mathematical) -
   PNG and MathML renderings for your equations.
+- [daru-plotly](https://github.com/genya0407/daru-plotly) -
+  [Plotly](https://plot.ly/) based visualization for Daru.
 - https://github.com/v0dro/benchmark-plot
 - https://github.com/domitry/Nyaplotjs
 - https://github.com/domitry/nyaplot

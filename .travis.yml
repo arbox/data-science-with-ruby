@@ -1,4 +1,4 @@
 language: ruby
 rvm:
   - 2.2
-script: "awesome_bot readme.md --allow-dupe"
+script: "awesome_bot readme.md inbox.md contributing.md --allow-dupe"
