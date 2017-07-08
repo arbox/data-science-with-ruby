@@ -30,10 +30,10 @@ and please spread the word using the `#RubyDataScience` hash tag!
 
 <!-- toc -->
 
-- [Ruby versus Python](#ruby-versus-python)
+- [Ruby vs. Python vs. Julia vs. R](#ruby-vs-python-vs-julia-vs-r)
 - [Data Structures](#data-structures)
 - [Statistics](#statistics)
-- [Symbolic Computation](#symbolic-computation)
+- [Numeric and Symbolic Computation](#numeric-and-symbolic-computation)
 - [Visualization](#visualization)
 - [Interactive Computing](#interactive-computing)
 - [Input and Output](#input-and-output)
@@ -43,6 +43,7 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - [Provisioning Infrastructure](#provisioning-infrastructure)
 - [Machine Learning](#machine-learning)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
+- [Related resources](#related-resources)
 - [Contributing](#contributing)
 - [Wait but why?](#wait-but-why)
 - [License](#license)
@@ -51,12 +52,12 @@ and please spread the word using the `#RubyDataScience` hash tag!
 
 <!-- doc -->
 
-## Ruby versus Python
+## Ruby vs. Python vs. Julia vs. R
 
-| Ruby   | Python |
-| ---    | ---    |
-| Daru   | Pandas |
-| NArray | NumPy  |
+| Ruby   | Python | Julia | R   |
+| ---    | ---    | ---   | --- |
+| Daru   | Pandas |       |     |
+| NArray | NumPy  |       |     |
 
 ## Data Structures
 
