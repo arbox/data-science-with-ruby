@@ -21,7 +21,7 @@ Read [why](#wait-but-why) this list is awesome.
 :sparkles: Every [contribution](contributing.md) is welcome!
 Add links through pull requests or create an issue to start a discussion.
 
-Follow us on [Twitter](https://twitter.com/RubyNLP)
+Follow us on [Twitter](https://twitter.com/NonWebRuby)
 and please spread the word using the `#RubyDataScience` hash tag!
 
 <!-- nodoc -->
