@@ -77,7 +77,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 - [nmatrix](https://github.com/sciruby/nmatrix) -
   Dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
 - [kdtree](https://github.com/gurgeous/kdtree) -
-  Blazingly fast, native, 2d kdtree.
+  Blazingly fast native 2d k-d tree.
 - [mdarray](https://github.com/rbotafogo/mdarray) - Array structure for `JRuby`.
 
 ## Statistics
@@ -136,9 +136,10 @@ Comprehensive tools for Data Visualization.
 
 ## Interactive Computing
 
+- [iruby](https://github.com/sciruby/iruby) -
+  Ruby kernel for [Jupyter](http://jupyter.org/).
 - [iruby-rails](https://github.com/mrkn/iruby-rails) -
   Integration library for IRuby and Rails.
-- https://github.com/sciruby/iruby
 
 ## Input and Output
 
