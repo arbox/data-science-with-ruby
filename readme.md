@@ -74,7 +74,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 - [numo-narray](https://github.com/ruby-numo/narray) -
   n-dimensional Numerical Array for Ruby.
-- [NMatrix](https://github.com/sciruby/nmatrix) -
+- [nmatrix](https://github.com/sciruby/nmatrix) -
   Dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
 - [kdtree](https://github.com/gurgeous/kdtree) -
   Blazingly fast, native, 2d kdtree.
