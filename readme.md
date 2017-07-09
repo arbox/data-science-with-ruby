@@ -74,7 +74,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 - [pycall](https://github.com/mrkn/pycall) - Bridge into the Python world.
 - [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) -
-  Ruby connector for [Rserve](http://www.rforge.net/Rserve/).
+  Ruby connector for [Rserve](http://www.rforge.net/Rserve/), R's binary server.
 
 ## Data Structures
 
