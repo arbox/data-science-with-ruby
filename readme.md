@@ -51,7 +51,6 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - [Machine Learning](#machine-learning)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Related resources](#related-resources)
-- [Contributing](#contributing)
 - [Wait but why?](#wait-but-why)
 - [License](#license)
 
