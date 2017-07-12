@@ -86,6 +86,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 - [kdtree](https://github.com/gurgeous/kdtree) -
   Blazingly fast native 2d k-d tree.
 - [mdarray](https://github.com/rbotafogo/mdarray) - Array structure for `JRuby`.
+- [spreadsheet](https://github.com/zdavatz/spreadsheet) - Manipulation library for MS Excel spreadsheets.
 
 ## Statistics
 
