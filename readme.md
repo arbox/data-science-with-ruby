@@ -7,7 +7,7 @@
 
 # Awesome Data Science with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Links and Resources for Data Processing in Ruby
+> Links and Resources for Data Processing and Analysis in Ruby
 
 [Data Science](https://en.wikipedia.org/wiki/Data_science) is a new
 "sexy" buzzword without specific meaning but often used to substitute
