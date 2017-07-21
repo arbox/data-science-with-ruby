@@ -59,3 +59,4 @@
 - https://github.com/twitter/twitter-text
 - https://github.com/Demonstrandum/Fractal
 - https://github.com/westonganger/spreadsheet_architect
+- https://github.com/hsugawa8651/jupyter_to_scrapbox_gem
