@@ -100,12 +100,14 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   extension of `statsample` by Generalized Linear Models.
 - [statsample-bivariate-extension](https://github.com/sciruby/statsample-bivariate-extension) -
   extension of `statsample` by Bivariate Correlations.
-- https://github.com/sciruby/statsample-timeseries
+- [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) -
+  extension of `statsample` by Time Series estimators..
 - [statistics2](https://github.com/abscondment/statistics2) -
   Provides normal, Chi-square, t- and F- probability distributions for Ruby.
 - [rb-gsl](https://github.com/blackwinter/rb-gsl) -
   Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
-- [PCA](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby.
+- [PCA](https://github.com/gbuesing/pca) -
+  Principal component analysis (PCA) in Ruby.
 - https://github.com/jtescher/descriptive-statistics
 - https://github.com/sciruby/distribution
 
