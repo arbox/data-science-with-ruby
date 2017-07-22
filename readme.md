@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Provides normal, Chi-square, t- and F- probability distributions for Ruby.
 - [rb-gsl](https://github.com/blackwinter/rb-gsl) -
   Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
-- [PCA](https://github.com/gbuesing/pca) -
+- [pca](https://github.com/gbuesing/pca) -
   Principal component analysis (PCA) in Ruby.
 - https://github.com/jtescher/descriptive-statistics
 - https://github.com/sciruby/distribution
