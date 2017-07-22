@@ -96,7 +96,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Fast implementation of descriptive statistics for the `Enumerable` module.
 - [statsample](https://github.com/sciruby/statsample) -
   A suite for basic and advanced statistics on Ruby. <sup>[[dep: GLS](#gls)]</sup>
-- https://github.com/sciruby/statsample-glm
+- [statsample-glm](https://github.com/sciruby/statsample-glm) -
+  extension of `statsample` by Generalized Linear Models.
 - https://github.com/sciruby/statsample-bivariate-extension
 - https://github.com/sciruby/statsample-timeseries
 - [statistics2](https://github.com/abscondment/statistics2) -
