@@ -173,6 +173,8 @@ Comprehensive tools for Data Visualization.
 ### Domain specific formats
 
 - BibTeX
+- [inih](https://github.com/woodruffw/ruby-inih) - fast C based INI parser for Ruby.
+
 
 ## Provisioning Infrastructure
 
