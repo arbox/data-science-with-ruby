@@ -82,36 +82,38 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 - [numo-narray](https://github.com/ruby-numo/narray) -
   n-dimensional Numerical Array for Ruby.
 - [nmatrix](https://github.com/sciruby/nmatrix) -
-  Dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
+  dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
 - [kdtree](https://github.com/gurgeous/kdtree) -
-  Blazingly fast native 2d k-d tree.
-- [mdarray](https://github.com/rbotafogo/mdarray) - Array structure for `JRuby`.
-- [spreadsheet](https://github.com/zdavatz/spreadsheet) - Manipulation library for MS Excel spreadsheets.
+  blazingly fast native 2d k-d tree.
+- [mdarray](https://github.com/rbotafogo/mdarray) -
+  Array structure for `JRuby`.
+- [spreadsheet](https://github.com/zdavatz/spreadsheet) -
+  manipulation library for MS Excel spreadsheets.
 
 ## Statistics
 
+- [rb-gsl](https://github.com/blackwinter/rb-gsl) -
+  Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
 - [simple_stats](https://github.com/brianhempel/simple_stats) -
   `Enumerable` patches for descriptive statistics.
 - [enumerable-statistics](https://github.com/mrkn/enumerable-statistics) -
-  Fast implementation of descriptive statistics for the `Enumerable` module.
+  fast implementation of descriptive statistics for the `Enumerable` module.
 - [statsample](https://github.com/sciruby/statsample) -
-  A suite for basic and advanced statistics on Ruby. <sup>[[dep: GLS](#gls)]</sup>
+  basic and advanced statistics for Ruby. <sup>[[dep: GLS](#gls)]</sup>
 - [statsample-glm](https://github.com/sciruby/statsample-glm) -
   extension of `statsample` by Generalized Linear Models.
 - [statsample-bivariate-extension](https://github.com/sciruby/statsample-bivariate-extension) -
   extension of `statsample` by Bivariate Correlations.
 - [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) -
-  extension of `statsample` by Time Series estimators..
-- [rb-gsl](https://github.com/blackwinter/rb-gsl) -
-  Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
+  extension of `statsample` by Time Series estimators.
 - [pca](https://github.com/gbuesing/pca) -
-  Principal component analysis (PCA) in Ruby.
+  Principal Component Analysis (PCA) in Ruby.
 - [descriptive-statistics](https://github.com/jtescher/descriptive-statistics) -
   descriptive extensions for the `Enumerable` module or standalone usage.
 - [distribution](https://github.com/sciruby/distribution) -
   probabilistic distributions and descriptive measures for them.
 - [statistics2](https://github.com/abscondment/statistics2) -
-  Provides normal, Chi-square, t- and F- probability distributions for Ruby.
+  Normal, Chi-square, t- and F- probability distributions for Ruby.
 
 ## Numeric and Symbolic Computation
 
@@ -187,7 +189,6 @@ Comprehensive tools for Data Visualization.
 - https://github.com/mrkn/gpu-instance
 - https://github.com/mrkn/computing_node
 - https://github.com/k1LoW/awspec
-
 
 ## Machine Learning
 
