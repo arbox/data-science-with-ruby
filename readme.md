@@ -108,7 +108,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
 - [pca](https://github.com/gbuesing/pca) -
   Principal component analysis (PCA) in Ruby.
-- https://github.com/jtescher/descriptive-statistics
+- [descriptive-statistics](https://github.com/jtescher/descriptive-statistics) -
+  descriptive extensions for the `Enumerable` module or standalone usage.
 - https://github.com/sciruby/distribution
 
 ## Numeric and Symbolic Computation
