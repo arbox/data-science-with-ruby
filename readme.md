@@ -98,7 +98,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   A suite for basic and advanced statistics on Ruby. <sup>[[dep: GLS](#gls)]</sup>
 - [statsample-glm](https://github.com/sciruby/statsample-glm) -
   extension of `statsample` by Generalized Linear Models.
-- https://github.com/sciruby/statsample-bivariate-extension
+- [statsample-bivariate-extension](https://github.com/sciruby/statsample-bivariate-extension) -
+  extension of `statsample` by Bivariate Correlations.
 - https://github.com/sciruby/statsample-timeseries
 - [statistics2](https://github.com/abscondment/statistics2) -
   Provides normal, Chi-square, t- and F- probability distributions for Ruby.
