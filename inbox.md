@@ -62,3 +62,4 @@
 - https://github.com/hsugawa8651/jupyter_to_scrapbox_gem
 - https://github.com/corybuecker/ruby-native-statistics
 - https://github.com/whileman133/rrtf
+- https://github.com/phillbaker/rubystats
