@@ -38,6 +38,7 @@ and please spread the word using the `#RubyDataScience` hash tag!
 
 - [Ruby vs. Python vs. Julia vs. R](#ruby-vs-python-vs-julia-vs-r)
 - [Standing on the shoulders of giants](#standing-on-the-shoulders-of-giants)
+- [Data Manipulation](#data-manipulation)
 - [Data Structures](#data-structures)
 - [Statistics](#statistics)
 - [Numeric and Symbolic Computation](#numeric-and-symbolic-computation)
@@ -74,6 +75,10 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 - [pycall](https://github.com/mrkn/pycall) - Bridge into the Python world.
 - [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) -
   Ruby connector for [Rserve](http://www.rforge.net/Rserve/), R's binary server.
+
+## Data Manipulation
+
+- [kiba etl](http://www.kiba-etl.org) - A lightweight Ruby ETL (Extract-Transform-Load) framework
 
 ## Data Structures
 
