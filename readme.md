@@ -78,7 +78,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 ## Data Manipulation
 
-- [kiba etl](http://www.kiba-etl.org) - A lightweight Ruby ETL (Extract-Transform-Load) framework
+- [kiba](https://github.com/thbar/kiba/) -
+  lightweight Ruby ETL (Extract-Transform-Load) framework.
 
 ## Data Structures
 
