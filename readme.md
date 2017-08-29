@@ -188,6 +188,8 @@ Comprehensive tools for Data Visualization.
 
 - BibTeX
 - [inih](https://github.com/woodruffw/ruby-inih) - fast C based INI parser for Ruby.
+- [bolognese](https://github.com/datacite/bolognese) -
+  conversion tool for citation formats like BibTeX, RIS, or Crossref XML.
 
 
 ## Provisioning Infrastructure
