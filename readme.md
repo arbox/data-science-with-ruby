@@ -238,7 +238,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) -
   awesome curated list on all around Big Data.
 - [Awesome Spark](https://github.com/awesome-spark/awesome-spark) -
-  awesome list on Apache Spark goodies.
+  awesome list on Apache Spark goodies, and don't forget to try the awesome Ruby gem [Ruby-Spark](http://ondra-m.github.io/ruby-spark/).
 
 ## Wait but why?
 
