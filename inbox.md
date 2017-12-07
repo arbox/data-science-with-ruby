@@ -62,3 +62,4 @@
 - https://github.com/corybuecker/ruby-native-statistics
 - https://github.com/whileman133/rrtf
 - https://github.com/phillbaker/rubystats
+- https://github.com/isuruf/conda.rb
