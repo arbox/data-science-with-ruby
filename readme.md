@@ -39,6 +39,7 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - [Ruby vs. Python vs. Julia vs. R](#ruby-vs-python-vs-julia-vs-r)
 - [Standing on the shoulders of giants](#standing-on-the-shoulders-of-giants)
 - [Data Manipulation](#data-manipulation)
+- [Distributed Computing](#distributed-computing)
 - [Data Structures](#data-structures)
 - [Statistics](#statistics)
 - [Numeric and Symbolic Computation](#numeric-and-symbolic-computation)
@@ -80,6 +81,11 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 - [kiba](https://github.com/thbar/kiba/) -
   lightweight Ruby ETL (Extract-Transform-Load) framework.
+
+## Distributed Computing
+
+- [ruby-spark](https://github.com/ondra-m/ruby-spark) -
+  Ruby Interface to [Apache Spark](https://spark.apache.org/) 1.x.x.
 
 ## Data Structures
 
