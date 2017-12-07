@@ -31,14 +31,14 @@
 - https://github.com/red-data-tools/red-arrow-numo-narray
 - https://github.com/red-data-tools/red-arrow
 - https://github.com/petewarden/dstk
-- https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-linux-dsvm-intro
+- https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-intro
 - https://github.com/gtkcyber/griffon-vm
 - https://github.com/ruby-rdf
 - https://github.com/cxn03651/write_xlsx
 - https://github.com/solyaris/rChatScript/
 - https://github.com/tj/terminal-table
 - https://github.com/halogenandtoast/alchemist
-- https://github.com/yannickwurm/rubyscholar
+- https://github.com/wurmlab/rubyscholar
 - https://github.com/lautis/rscsv
 - https://github.com/agardiner/csv-diff
 - https://github.com/red-data-tools/jekyll-jupyter-notebook

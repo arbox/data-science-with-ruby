@@ -73,7 +73,7 @@ Ruby is (for now) not a Data Science centric language with a very large establis
 Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 <!--- TODO: Add the talk by @mrkn --->
 
-- [pycall](https://github.com/mrkn/pycall) - Bridge into the Python world.
+- [pycall](https://github.com/mrkn/pycall.rb) - Bridge into the Python world.
 - [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) -
   Ruby connector for [Rserve](http://www.rforge.net/Rserve/), R's binary server.
 
@@ -273,6 +273,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [ruby]: https://www.ruby-lang.org/en/
 [ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
-[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
 [sciruby]: https://github.com/sciruby
 [contributors]: https://github.com/arbox/data-science-with-ruby/graphs/contributors
