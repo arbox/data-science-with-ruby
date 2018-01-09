@@ -211,6 +211,8 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 ## Articles, Posts, Talks, and Presentations
 
 - 2017
+  - _Progress of Ruby-Numo: Numerical Computing for Ruby_ by [Masahiro Tanaka](https://github.com/masa16)
+    <sup>[[slides](https://speakerdeck.com/masa16tanaka/progress-of-ruby-numo-numerical-computing-for-ruby)]</sup>
   - _Chartkick: data visualization made easy with Ruby_ by [Govind Unnikrishnan](https://twitter.com/govind_k_u)
     <sup>[[post](https://blog.redpanthers.co/chartkick-data-visualization-easy-ruby/)]</sup>
 - 2016
