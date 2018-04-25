@@ -63,3 +63,4 @@
 - https://github.com/whileman133/rrtf
 - https://github.com/phillbaker/rubystats
 - https://github.com/isuruf/conda.rb
+- https://github.com/zendesk/ruby-kafka
