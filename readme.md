@@ -101,6 +101,9 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Array structure for `JRuby`.
 - [spreadsheet](https://github.com/zdavatz/spreadsheet) -
   manipulation library for MS Excel spreadsheets.
+- [NetworkX.rb](https://github.com/athityakumar/networkx.rb) -
+  Ruby based [NetworkX](https://networkx.github.io/) clone that handles various
+  usecases of the Graph Data Structure.
 
 ## Statistics
 
