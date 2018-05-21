@@ -91,7 +91,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 - [daru](https://github.com/SciRuby/daru) -
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
-- [numo-narray](https://github.com/ruby-numo/narray) -
+- [numo-narray](https://github.com/ruby-numo/numo-narray) -
   n-dimensional Numerical Array for Ruby.
 - [nmatrix](https://github.com/sciruby/nmatrix) -
   dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
@@ -129,13 +129,13 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 ## Numeric and Symbolic Computation
 
-- [numo-linalg](https://github.com/ruby-numo/linalg) -
+- [numo-linalg](https://github.com/ruby-numo/numo-linalg) -
   linear algebraic operations for NArray.
-- [numo-gsl](https://github.com/ruby-numo/gsl) -
+- [numo-gsl](https://github.com/ruby-numo/numo-gsl) -
   Math and Statistics for NArray using GSL.<sup>[[dep: GSL](#gsl)]</sup>
 - [symengine](https://github.com/symengine/symengine.rb) -
   Symbolic Computation with [SymEngine](https://github.com/symengine/symengine).
-- [numo-ffte](https://github.com/ruby-numo/ffte) -
+- [numo-ffte](https://github.com/ruby-numo/numo-ffte) -
   Fast Fourier Transformation for NArray using the FFTE package.<sup>[[FFTE](#ffte)]</sup>
 
 ## Visualization
@@ -161,7 +161,7 @@ Comprehensive tools for Data Visualization.
 - https://github.com/brasten/scruffy
 - https://github.com/zverok/worldize
 - https://github.com/masa16/ruby-mathgl
-- [numo-gnuplot](https://github.com/ruby-numo/gnuplot) -
+- [numo-gnuplot](https://github.com/ruby-numo/numo-gnuplot) -
   gnuplot interface for the Numo package.
 
 ## Interactive Computing

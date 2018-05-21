@@ -1,7 +1,6 @@
 - https://github.com/zverok/magic_cloud
 - http://eewang.github.io/blog/2013/02/20/how-to-visualize-data-with-google-charts/
 - https://www.youtube.com/watch?v=IxSSbUrgTBY
-- https://socialdriver.com/2015/05/13/open-source-data-visualization/
 - https://github.com/NoahFisher/plotly-js
 - https://github.com/Nerian/Wordcram.rb
 - https://rubygems.org/gems/wordlelike
@@ -35,7 +34,7 @@
 - https://github.com/gtkcyber/griffon-vm
 - https://github.com/ruby-rdf
 - https://github.com/cxn03651/write_xlsx
-- https://github.com/solyaris/rChatScript/
+- https://github.com/solyarisoftware/rChatScript/
 - https://github.com/tj/terminal-table
 - https://github.com/halogenandtoast/alchemist
 - https://github.com/wurmlab/rubyscholar
