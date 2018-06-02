@@ -86,6 +86,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 - [ruby-spark](https://github.com/ondra-m/ruby-spark) -
   Ruby Interface to [Apache Spark](https://spark.apache.org/) 1.x.x.
+- [jruby-spark](https://github.com/chyh1990/jruby-spark) -
+  JRuby based bindings for [Apache Spark](https://spark.apache.org/).
 
 ## Data Structures
 
