@@ -220,6 +220,10 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
     <sup>[[slides](https://speakerdeck.com/masa16tanaka/progress-of-ruby-numo-numerical-computing-for-ruby)]</sup>
   - _Chartkick: data visualization made easy with Ruby_ by [Govind Unnikrishnan](https://twitter.com/govind_k_u)
     <sup>[[post](https://blog.redpanthers.co/chartkick-data-visualization-easy-ruby/)]</sup>
+  - _Development of Data Science Ecosystem for Ruby_ by [Kenta Murata](https://twitter.com/mrkn)
+    <sup>[[slides](https://speakerdeck.com/mrkn/development-of-data-science-ecosystem-for-ruby) |
+          [video](https://www.youtube.com/watch?v=U9GdgZowmGY) |
+          [page](http://rubykaigi.org/2017/presentations/mrkn.html)]</sup>
 - 2016
   - _Scientific Computation and Data Visualization with Ruby_ by [Sameer Deshmukh](https://twitter.com/v0dro)
     <sup>[[slides](https://www.slideshare.net/SrijanOne/webinar-scientific-computation-and-data-visualization-with-ruby) |
@@ -237,6 +241,14 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
   - _NArray and scientific computing with Ruby_ by [Masahiro Tanaka](https://twitter.com/masa16tanaka)
     <sup>[[video](https://vimeo.com/14823720) |
           [slides](https://www.slideshare.net/masa16tanaka/narray-and-scientific-computing-with-ruby)]</sup>
+
+## Community
+
+- https://gitter.im/red-data-tools/en
+- https://gitter.im/red-data-tools/ja
+- http://ruby-data.org/
+- https://twitter.com/RubyData
+
 
 ## Related resources
 
