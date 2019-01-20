@@ -41,6 +41,7 @@ and please spread the word using the `#RubyDataScience` hash tag!
 - [Data Manipulation](#data-manipulation)
 - [Distributed Computing](#distributed-computing)
 - [Data Structures](#data-structures)
+- [Data sets](#data-sets)
 - [Statistics](#statistics)
 - [Numeric and Symbolic Computation](#numeric-and-symbolic-computation)
 - [Visualization](#visualization)
@@ -106,6 +107,10 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 - [networkx](https://github.com/SciRuby/networkx.rb) -
   Ruby based [NetworkX](https://networkx.github.io/) clone that handles various
   usecases of the Graph Data Structure.
+
+## Data sets
+- [rdatasets](https://github.com/kojix2/rdatasets) &mdash;
+  Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets).
 
 ## Statistics
 
