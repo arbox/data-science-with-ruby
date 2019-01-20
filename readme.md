@@ -109,8 +109,11 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   usecases of the Graph Data Structure.
 
 ## Data sets
+
 - [rdatasets](https://github.com/kojix2/rdatasets) &mdash;
   Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets).
+- [red-datasets](https://github.com/red-data-tools/red-datasets) &mdash;
+  Growing collection of publicly available data sets such as CIFAR-10, Iris, MNIS etc.
 
 ## Statistics
 
