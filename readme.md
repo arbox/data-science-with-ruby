@@ -180,7 +180,7 @@ Comprehensive tools for Data Visualization.
 ## Interactive Computing
 
 - [iruby](https://github.com/sciruby/iruby) -
-  Ruby kernel for [Jupyter](http://jupyter.org/).
+  Ruby kernel for [Jupyter](https://jupyter.org/).
 - [iruby-rails](https://github.com/mrkn/iruby-rails) -
   Integration library for IRuby and Rails.
 
@@ -231,7 +231,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
   - _Development of Data Science Ecosystem for Ruby_ by [Kenta Murata](https://twitter.com/mrkn)
     <sup>[[slides](https://speakerdeck.com/mrkn/development-of-data-science-ecosystem-for-ruby) |
           [video](https://www.youtube.com/watch?v=U9GdgZowmGY) |
-          [page](http://rubykaigi.org/2017/presentations/mrkn.html)]</sup>
+          [page](https://rubykaigi.org/2017/presentations/mrkn.html)]</sup>
 - 2016
   - _Scientific Computation and Data Visualization with Ruby_ by [Sameer Deshmukh](https://twitter.com/v0dro)
     <sup>[[slides](https://www.slideshare.net/SrijanOne/webinar-scientific-computation-and-data-visualization-with-ruby) |
@@ -261,7 +261,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 ## Related resources
 
 - <a name="imagemagic"></a>
-  [ImageMagick](https://www.imagemagick.org/script/index.php)
+  [ImageMagick](https://imagemagick.org/index.php)
 - <a name="gsl"></a>
   [GSL](https://www.gnu.org/software/gsl/)
 - <a name="ffte"></a>

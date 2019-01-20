@@ -44,7 +44,6 @@
 - https://github.com/jtprince/simpler
 - https://github.com/clbustos/Rserve-Ruby-client
 - https://github.com/ash1day/rbplotly
-- https://github.com/mjwhitta/pptxt
 - https://github.com/gverger/ruby-cbc
 - https://github.com/civisanalytics/tableau_api
 - https://github.com/coderbydesign/chart-js-rails
