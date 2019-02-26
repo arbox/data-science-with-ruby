@@ -82,6 +82,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 - [kiba](https://github.com/thbar/kiba/) -
   lightweight Ruby ETL (Extract-Transform-Load) framework.
+- [jongleur](https://gitlab.com/RedFred7/Jongleur) &mdash;
+  Workflow manager using DAG definitions to execute ETL tasks.
 
 ## Distributed Computing
 
