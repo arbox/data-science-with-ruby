@@ -227,6 +227,10 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
 
+- 2019
+  - _Parallelising ETL workflows with the Jongleur gem_ by [Fred Heath](https://github.com/RedFred7)
+  <sup>[[post](http://bootstrap.me.uk/gems/2019/01/06/jongleur-etl.html)]</sup>
+- 2018
 - 2017
   - _Progress of Ruby-Numo: Numerical Computing for Ruby_ by [Masahiro Tanaka](https://github.com/masa16)
     <sup>[[slides](https://speakerdeck.com/masa16tanaka/progress-of-ruby-numo-numerical-computing-for-ruby)]</sup>
