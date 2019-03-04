@@ -74,42 +74,42 @@ Ruby is (for now) not a Data Science centric language with a very large establis
 Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 <!--- TODO: Add the talk by @mrkn --->
 
-- [pycall](https://github.com/mrkn/pycall.rb) - Bridge into the Python world.
-- [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) -
+- [pycall](https://github.com/mrkn/pycall.rb) &mdash; Bridge into the Python world.
+- [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) &mdash;
   Ruby connector for [Rserve](http://www.rforge.net/Rserve/), R's binary server.
 
 ## Data Manipulation
 
-- [kiba](https://github.com/thbar/kiba/) -
+- [kiba](https://github.com/thbar/kiba/) &mdash;
   lightweight Ruby ETL (Extract-Transform-Load) framework.
 - [jongleur](https://gitlab.com/RedFred7/Jongleur) &mdash;
   Workflow manager using DAG definitions to execute ETL tasks.
 
 ## Distributed Computing
 
-- [ruby-spark](https://github.com/ondra-m/ruby-spark) -
+- [ruby-spark](https://github.com/ondra-m/ruby-spark) &mdash;
   Ruby Interface to [Apache Spark](https://spark.apache.org/) 1.x.x.
-- [jruby-spark](https://github.com/chyh1990/jruby-spark) -
+- [jruby-spark](https://github.com/chyh1990/jruby-spark) &mdash;
   JRuby based bindings for [Apache Spark](https://spark.apache.org/).
 
 ## Data Structures
 
-- [daru](https://github.com/SciRuby/daru) -
+- [daru](https://github.com/SciRuby/daru) &mdash;
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
-- [numo-narray](https://github.com/ruby-numo/numo-narray) -
+- [numo-narray](https://github.com/ruby-numo/numo-narray) &mdash;
   n-dimensional Numerical Array for Ruby.
-- [nmatrix](https://github.com/sciruby/nmatrix) -
+- [nmatrix](https://github.com/sciruby/nmatrix) &mdash;
   dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
-- [kdtree](https://github.com/gurgeous/kdtree) -
+- [kdtree](https://github.com/gurgeous/kdtree) &mdash;
   blazingly fast native 2d k-d tree.
-- [mdarray](https://github.com/rbotafogo/mdarray) -
+- [mdarray](https://github.com/rbotafogo/mdarray) &mdash;
   Array structure for `JRuby`.
-- [spreadsheet](https://github.com/zdavatz/spreadsheet) -
+- [spreadsheet](https://github.com/zdavatz/spreadsheet) &mdash;
   manipulation library for MS Excel spreadsheets.
-- [networkx](https://github.com/SciRuby/networkx.rb) -
+- [networkx](https://github.com/SciRuby/networkx.rb) &mdash;
   Ruby based [NetworkX](https://networkx.github.io/) clone that handles various
   usecases of the Graph Data Structure.
-- [cumo](https://github.com/sonots/cumo) -
+- [cumo](https://github.com/sonots/cumo) &mdash;
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) similar interface.
 
 ## Data sets
@@ -121,50 +121,50 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 ## Statistics
 
-- [rb-gsl](https://github.com/blackwinter/rb-gsl) -
+- [rb-gsl](https://github.com/blackwinter/rb-gsl) &mdash;
   Ruby interface to the GNU Scientific Library. <sup>[[dep: GLS](#gls)]</sup>
-- [simple_stats](https://github.com/brianhempel/simple_stats) -
+- [simple_stats](https://github.com/brianhempel/simple_stats) &mdash;
   `Enumerable` patches for descriptive statistics.
-- [enumerable-statistics](https://github.com/mrkn/enumerable-statistics) -
+- [enumerable-statistics](https://github.com/mrkn/enumerable-statistics) &mdash;
   fast implementation of descriptive statistics for the `Enumerable` module.
-- [statsample](https://github.com/sciruby/statsample) -
+- [statsample](https://github.com/sciruby/statsample) &mdash;
   basic and advanced statistics for Ruby. <sup>[[dep: GLS](#gls)]</sup>
-- [statsample-glm](https://github.com/sciruby/statsample-glm) -
+- [statsample-glm](https://github.com/sciruby/statsample-glm) &mdash;
   extension of `statsample` by Generalized Linear Models.
-- [statsample-bivariate-extension](https://github.com/sciruby/statsample-bivariate-extension) -
+- [statsample-bivariate-extension](https://github.com/sciruby/statsample-bivariate-extension) &mdash;
   extension of `statsample` by Bivariate Correlations.
-- [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) -
+- [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) &mdash;
   extension of `statsample` by Time Series estimators.
-- [pca](https://github.com/gbuesing/pca) -
+- [pca](https://github.com/gbuesing/pca) &mdash;
   Principal Component Analysis (PCA) in Ruby.
-- [descriptive-statistics](https://github.com/jtescher/descriptive-statistics) -
+- [descriptive-statistics](https://github.com/jtescher/descriptive-statistics) &mdash;
   descriptive extensions for the `Enumerable` module or standalone usage.
-- [distribution](https://github.com/sciruby/distribution) -
+- [distribution](https://github.com/sciruby/distribution) &mdash;
   probabilistic distributions and descriptive measures for them.
-- [statistics2](https://github.com/abscondment/statistics2) -
+- [statistics2](https://github.com/abscondment/statistics2) &mdash;
   Normal, Chi-square, t- and F- probability distributions for Ruby.
 
 ## Numeric and Symbolic Computation
 
-- [numo-linalg](https://github.com/ruby-numo/numo-linalg) -
+- [numo-linalg](https://github.com/ruby-numo/numo-linalg) &mdash;
   linear algebraic operations for NArray.
-- [numo-gsl](https://github.com/ruby-numo/numo-gsl) -
+- [numo-gsl](https://github.com/ruby-numo/numo-gsl) &mdash;
   Math and Statistics for NArray using GSL.<sup>[[dep: GSL](#gsl)]</sup>
-- [symengine](https://github.com/symengine/symengine.rb) -
+- [symengine](https://github.com/symengine/symengine.rb) &mdash;
   Symbolic Computation with [SymEngine](https://github.com/symengine/symengine).
-- [numo-ffte](https://github.com/ruby-numo/numo-ffte) -
+- [numo-ffte](https://github.com/ruby-numo/numo-ffte) &mdash;
   Fast Fourier Transformation for NArray using the FFTE package.<sup>[[FFTE](#ffte)]</sup>
 
 ## Visualization
 
 Comprehensive tools for Data Visualization.
 
-- [matplotlib](https://github.com/mrkn/matplotlib.rb) -
+- [matplotlib](https://github.com/mrkn/matplotlib.rb) &mdash;
   Ruby based wrapper around [matplotlib](https://matplotlib.org/).
   <sup>[[dep: matplotlib](#matplotlib)]</sup>
-- [mathematical](https://github.com/gjtorikian/mathematical) -
+- [mathematical](https://github.com/gjtorikian/mathematical) &mdash;
   PNG and MathML renderings for your equations.
-- [daru-plotly](https://github.com/genya0407/daru-plotly) -
+- [daru-plotly](https://github.com/genya0407/daru-plotly) &mdash;
   [Plotly](https://plot.ly/) based visualization for Daru.
 - https://github.com/v0dro/benchmark-plot
 - https://github.com/domitry/Nyaplotjs
@@ -178,14 +178,14 @@ Comprehensive tools for Data Visualization.
 - https://github.com/brasten/scruffy
 - https://github.com/zverok/worldize
 - https://github.com/masa16/ruby-mathgl
-- [numo-gnuplot](https://github.com/ruby-numo/numo-gnuplot) -
+- [numo-gnuplot](https://github.com/ruby-numo/numo-gnuplot) &mdash;
   gnuplot interface for the Numo package.
 
 ## Interactive Computing
 
-- [iruby](https://github.com/sciruby/iruby) -
+- [iruby](https://github.com/sciruby/iruby) &mdash;
   Ruby kernel for [Jupyter](https://jupyter.org/).
-- [iruby-rails](https://github.com/mrkn/iruby-rails) -
+- [iruby-rails](https://github.com/mrkn/iruby-rails) &mdash;
   Integration library for IRuby and Rails.
 
 ## Input and Output
@@ -193,9 +193,9 @@ Comprehensive tools for Data Visualization.
 ### General formats
 
 - https://github.com/fiksu/rcsv
-- [ox](https://github.com/ohler55/ox) -
+- [ox](https://github.com/ohler55/ox) &mdash;
   Optimized for speed XML parser and object marshaller.
-- [oj](https://github.com/ohler55/oj) -
+- [oj](https://github.com/ohler55/oj) &mdash;
   High-speed JSON parser.
 - Markdown
 - Nokogiri
@@ -210,8 +210,8 @@ Comprehensive tools for Data Visualization.
 ### Domain specific formats
 
 - BibTeX
-- [inih](https://github.com/woodruffw/ruby-inih) - fast C based INI parser for Ruby.
-- [bolognese](https://github.com/datacite/bolognese) -
+- [inih](https://github.com/woodruffw/ruby-inih) &mdash; fast C based INI parser for Ruby.
+- [bolognese](https://github.com/datacite/bolognese) &mdash;
   conversion tool for citation formats like BibTeX, RIS, or Crossref XML.
 
 
@@ -279,7 +279,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
   [SymEngine](https://github.com/symengine/symengine)
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) -
   awesome curated list on all around Big Data.
-- [Awesome Spark](https://github.com/awesome-spark/awesome-spark) -
+- [Awesome Spark](https://github.com/awesome-spark/awesome-spark) &mdash;
   awesome list on Apache Spark goodies.
 
 ## Wait but why?
