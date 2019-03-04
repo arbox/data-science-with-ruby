@@ -268,6 +268,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
+- [Awesome Data Science with Python](https://github.com/r0f1/datascience)
 - <a name="imagemagic"></a>
   [ImageMagick](https://imagemagick.org/index.php)
 - <a name="gsl"></a>
