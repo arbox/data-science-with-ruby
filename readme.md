@@ -164,6 +164,10 @@ Comprehensive tools for Data Visualization.
   <sup>[[dep: matplotlib](#matplotlib)]</sup>
 - [mathematical](https://github.com/gjtorikian/mathematical) &mdash;
   PNG and MathML renderings for your equations.
+- [daru-view](https://github.com/sciruby/daru-view) &mdash;
+  daru-view is interactive plotting gem for web application
+  (any Ruby web application framework like Rails/Sinatra/Nanoc/Hanami) & IRuby notebook. 
+  It is a plugin gem for daru.
 - [daru-plotly](https://github.com/genya0407/daru-plotly) &mdash;
   [Plotly](https://plot.ly/) based visualization for Daru.
 - https://github.com/v0dro/benchmark-plot
