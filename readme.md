@@ -184,6 +184,10 @@ Comprehensive tools for Data Visualization.
 - https://github.com/masa16/ruby-mathgl
 - [numo-gnuplot](https://github.com/ruby-numo/numo-gnuplot) &mdash;
   gnuplot interface for the Numo package.
+- [chartkick](https://github.com/ankane/chartkick) &mdash;
+  Create beautiful JavaScript charts with one line of Ruby.
+- [iruby-chartkick](https://github.com/Absolventa/iruby-chartkick) &mdash;
+  Use [chartkick](https://github.com/ankane/chartkick) within IRuby-backed jupyter notebooks
 - [ruby-gr](https://github.com/red-data-tools/GR.rb) &mdash;
   Ruby interface to [GR](https://gr-framework.org/), a framework for visualisation applications.
   <sup>[[dep: GR](#gr)]</sup>
@@ -194,6 +198,9 @@ Comprehensive tools for Data Visualization.
   Ruby kernel for [Jupyter](https://jupyter.org/).
 - [iruby-rails](https://github.com/mrkn/iruby-rails) &mdash;
   Integration library for IRuby and Rails.
+- [jupyter_on_rails](https://github.com/Yuki-Inoue/jupyter_on_rails/) &mdash;
+  Another integration library for IRuby and Rails.
+
 
 ## Input and Output
 
