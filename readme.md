@@ -184,6 +184,9 @@ Comprehensive tools for Data Visualization.
 - https://github.com/masa16/ruby-mathgl
 - [numo-gnuplot](https://github.com/ruby-numo/numo-gnuplot) &mdash;
   gnuplot interface for the Numo package.
+- [ruby-gr](https://github.com/red-data-tools/GR.rb) &mdash;
+  Ruby interface to [GR](https://gr-framework.org/), a framework for visualisation applications.
+  <sup>[[dep: GR](#gr)]</sup>
 
 ## Interactive Computing
 
