@@ -188,6 +188,9 @@ Comprehensive tools for Data Visualization.
   Create beautiful JavaScript charts with one line of Ruby.
 - [iruby-chartkick](https://github.com/Absolventa/iruby-chartkick) &mdash;
   Use [chartkick](https://github.com/ankane/chartkick) within IRuby-backed jupyter notebooks
+- [ruby-gr](https://github.com/red-data-tools/GR.rb) &mdash;
+  Ruby interface to [GR](https://gr-framework.org/), a framework for visualisation applications.
+  <sup>[[dep: GR](#gr)]</sup>
 
 ## Interactive Computing
 
