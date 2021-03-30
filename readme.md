@@ -143,6 +143,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   probabilistic distributions and descriptive measures for them.
 - [statistics2](https://github.com/abscondment/statistics2) &mdash;
   Normal, Chi-square, t- and F- probability distributions for Ruby.
+- [fast_statistics](https://github.com/Martin-Nyaga/fast_statistics) &mdash;
+  fast computation of descriptive statistics (min, max, mean, median, 1st and 3rd quartiles, population standard deviation) for a multivariate dataset.
 
 ## Numeric and Symbolic Computation
 
@@ -166,7 +168,7 @@ Comprehensive tools for Data Visualization.
   PNG and MathML renderings for your equations.
 - [daru-view](https://github.com/sciruby/daru-view) &mdash;
   daru-view is interactive plotting gem for web application
-  (any Ruby web application framework like Rails/Sinatra/Nanoc/Hanami) & IRuby notebook. 
+  (any Ruby web application framework like Rails/Sinatra/Nanoc/Hanami) & IRuby notebook.
   It is a plugin gem for daru.
 - [daru-plotly](https://github.com/genya0407/daru-plotly) &mdash;
   [Plotly](https://plot.ly/) based visualization for Daru.
