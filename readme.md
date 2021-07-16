@@ -63,10 +63,10 @@ and please spread the word using the `#RubyDataScience` hash tag!
 
 ## Ruby vs. Python vs. Julia vs. R
 
-| Ruby   | Python | Julia | R   |
-| ---    | ---    | ---   | --- |
-| Daru   | Pandas |       |     |
-| NArray | NumPy  |       |     |
+| Ruby         | Python | Julia | R   |
+| ---          | ---    | ---   | --- |
+| Daru / Rover | Pandas |       |     |
+| NArray       | NumPy  |       |     |
 
 ## Standing on the shoulders of giants
 
@@ -95,6 +95,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 ## Data Structures
 
 - [daru](https://github.com/SciRuby/daru) &mdash;
+  Data Frame and Vector structures with comprehensive manipulating and visualization methods.
+- [Rover](https://github.com/ankane/rover) &mdash;
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 - [numo-narray](https://github.com/ruby-numo/numo-narray) &mdash;
   n-dimensional Numerical Array for Ruby.
@@ -172,10 +174,17 @@ Comprehensive tools for Data Visualization.
   It is a plugin gem for daru.
 - [daru-plotly](https://github.com/genya0407/daru-plotly) &mdash;
   [Plotly](https://plot.ly/) based visualization for Daru.
-- https://github.com/v0dro/benchmark-plot
-- https://github.com/domitry/Nyaplotjs
-- https://github.com/domitry/nyaplot
-- https://github.com/SciRuby/gnuplotrb
+- [benchmark-plot](https://github.com/v0dro/benchmark-plot)
+- [Vega](https://github.com/ankane/vega) &mdash;
+  [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
+  based visualization for Rover.
+- [Gruff](https://github.com/topfunky/gruff) &mdash;
+  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick).
+- [Rubyplot](https://github.com/SciRuby/rubyplot) &mdash;
+  graphing library built on top of [GR](https://gr-framework.org).
+- [Nyaplotjs](https://github.com/domitry/Nyaplotjs)
+- [nyaplot](https://github.com/domitry/nyaplot)
+- [gnuplotrb](https://github.com/SciRuby/gnuplotrb)
 - [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz)
   <sup>[[dep: Graphviz](#graphviz)]</sup>
 - [gnuplot](https://github.com/rdp/ruby_gnuplot/tree/master)
