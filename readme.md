@@ -193,6 +193,8 @@ Comprehensive tools for Data Visualization.
 - [ruby-gr](https://github.com/red-data-tools/GR.rb) &mdash;
   Ruby interface to [GR](https://gr-framework.org/), a framework for visualisation applications.
   <sup>[[dep: GR](#gr)]</sup>
+- [vega-ruby](https://github.com/ankane/vega-ruby)
+   Interactive charts for Ruby, powered by Vega and Vega-Lite.
 
 ## Interactive Computing
 
