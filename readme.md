@@ -111,6 +111,8 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   usecases of the Graph Data Structure.
 - [cumo](https://github.com/sonots/cumo) &mdash;
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) similar interface.
+- [Rover](https://github.com/ankane/rover) &mdash;
+   Simple, powerful data frames for Ruby.
 
 ## Data sets
 
